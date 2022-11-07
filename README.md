@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# js-course-blog-admin
+[try it!](https://js-course-blog-admin.surge.sh/)
 
 built as part of js course at american spaces in almaty, kz
 
